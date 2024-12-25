@@ -1,1 +1,1 @@
-This is a Python Project for Data Science of IBM Data Analyst Course on Coursera
+This is a Python assignment of the IBM Data Analyst Course on Coursera
